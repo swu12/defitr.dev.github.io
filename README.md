@@ -1,7 +1,7 @@
-# Development site for DeFiTr project
-## Indices
+# DEFITR PROJECT DEVELOPMENT SITE
+## INDICES
 DFTI Select 3 Index
 
 DFTI 30 Index
-## Ratings
-## More
+## RATINGS
+## MORE
