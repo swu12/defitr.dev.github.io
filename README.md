@@ -1,6 +1,6 @@
 ## INDICES
-DFTI Select 3 Index
+DFT Select Index
 
-DFTI 30 Index
+DFT 30 Index
 ## RATINGS
 ## C(RYPT)OINSIGHTS
