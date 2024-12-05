@@ -1,5 +1,5 @@
 ## INDICES
-DFT Select Index (DFTX)
+DFT Select Index (DFTS)
 
 DFT 30 Index (DFT30)
 ## RATINGS
