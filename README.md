@@ -3,4 +3,4 @@ DFTI Select 3 Index
 
 DFTI 30 Index
 ## RATINGS
-## COINSIGHTS
+## C(RYPT)OINSIGHTS
