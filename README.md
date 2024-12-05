@@ -1,4 +1,3 @@
-# 
 ## INDICES
 DFTI Select 3 Index
 
