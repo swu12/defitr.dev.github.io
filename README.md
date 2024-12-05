@@ -1,4 +1,4 @@
-# PROJECT DEVELOPMENT 
+# 
 ## INDICES
 DFTI Select 3 Index
 
